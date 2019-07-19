@@ -5,3 +5,5 @@ build
 .gradle
 .idea
 template/java8/**/bin/
+template/php/vendor
+.vscode
